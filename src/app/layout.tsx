@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Sasindi Korala — Frontend Developer & UI/UX Designer',
+  title: 'Sasindi Korala - Frontend Developer & UI/UX Designer',
   description:
     'Front-end developer & UI/UX designer crafting intuitive, visually striking digital experiences.',
 };
